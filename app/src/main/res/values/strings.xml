@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DynamicTrivial</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_username"> Nombre de usuario</string>
+    <string name="hint_mail">ejemplo@mail.com</string>
+    <string name="hint_password"> Contraseña</string>
+    <string name="hint_passwordRepeat">Repite la contraseña</string>
+    <string name="hint_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="register_button">Regístrate</string>
+    <string name="login_logo">Inicia sesión</string>
+    <string name="hint_register">¿No tienes cuenta? Regístrate</string>
+    <string name="login_button">Inicia sesión</string>
+
+</resources>
