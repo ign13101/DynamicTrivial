@@ -25,7 +25,7 @@ public class StartupActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 mp.start();
-                Intent intent = new Intent(StartupActivity.this, LoginActivity.class);
+                Intent intent = new Intent(StartupActivity.this, MainActivity.class);
                 startActivity(intent);
             }
         });
